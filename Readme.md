@@ -1,3 +1,6 @@
+# Project : inverse kinematics and resolved rate control
+In this project, we will implement an inverse kinematics algorithm and controllers for the Kuka iiwa 14 robot.
+
 # Installation instructions
 
 You can run the Jupyter notebook for the project either using a local installation of Python on your computer or directly on Google Colab without the need to install any additional software.
